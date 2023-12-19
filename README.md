@@ -1,4 +1,4 @@
-## This app was created by coding along with a youtube video. I only have limited experience with TypeScript/React and thought this project would be a good experience.
+## This app was created by coding along with a youtube video. I only have limited experience with TypeScript but thought this project would be a good experience.
 
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
